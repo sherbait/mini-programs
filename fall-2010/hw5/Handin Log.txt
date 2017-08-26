@@ -1,0 +1,7 @@
+bash-2.05$ handin214 homework5_01 submit
+a submit/ 0K
+a submit/BTTNode.java 8K
+a submit/BTTree.java 2K
+a submit/GuessingGame.java 4K
+Wrote 16384 bytes to hand-in file, now updating log file.
+Hand-in successful, 16384 bytes saved.
