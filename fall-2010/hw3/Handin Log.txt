@@ -1,0 +1,12 @@
+Press Enter to Continue: 
+bash-2.05$ cd cse214/homework3
+bash-2.05$ handin214 homework3_01 submit
+a submit/ 0K
+a submit/EmptyVariableException.java 1K
+a submit/Evaluator.java 5K
+a submit/FullStackException.java 1K
+a submit/Stack.java 4K
+a submit/Token.java 3K
+Wrote 17408 bytes to hand-in file, now updating log file.
+Hand-in successful, 17408 bytes saved.
+bash-2.05$ 
