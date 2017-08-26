@@ -1,0 +1,8 @@
+bash-2.05$ handin214 homework6_01 submit
+a submit/ 0K
+a submit/ElementNotFoundException.java 1K
+a submit/EmailInfo.java 5K
+a submit/SpamDriver.java 7K
+a submit/SpamFilter.java 4K
+Wrote 19456 bytes to hand-in file, now updating log file.
+Hand-in successful, 19456 bytes saved.
