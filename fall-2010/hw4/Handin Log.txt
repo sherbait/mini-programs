@@ -1,0 +1,11 @@
+bash-2.05$ handin214 homework4_01 submit
+a submit/ 0K
+a submit/Analyzer.java 7K
+a submit/BooleanSource.java 2K
+a submit/Customer.java 3K
+a submit/EmptyQueueException.java 1K
+a submit/Queue.java 3K
+a submit/Simulator.java 6K
+a submit/RESULTS.txt 1K
+Wrote 26112 bytes to hand-in file, now updating log file.
+Hand-in successful, 26112 bytes saved.
